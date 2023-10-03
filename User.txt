@@ -1,0 +1,6 @@
+Nabaa,Adel,naba@gmail.com,0178468913,Yemen,Malaysia,Selangor,19,062469,naba
+Birungi,Mugerezi,birungi@gmail.com,0198765432,Tanzania,Malaysia,Kuala Lumpur,19,061790,birungi11
+Ruba,Adel,ruba@gmail.com,0192346789,Yemen,Malaysia,Kuala Lumpur,23,061706,rubw
+Chanyeol,Park,chanyeol@gmail.com,01978654322,Korea,Malaysia,Selangor,29,062711,chanyeol
+Mohammed,Afif,mohd@gmail.com,0125670954,Malaysia,Malaysia,Penang,50,060011,mohd
+Chong Wei,Lee,wei@gmail.com,0195670000,Malaysia,Malaysia,Ipoh,65,065555,chongwei
